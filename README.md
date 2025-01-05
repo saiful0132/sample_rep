@@ -55,7 +55,7 @@ This project is built to learn the fundamentals of full-stack web development. I
 - Clone the repo
 
   ```sh
-  git clone https://github.com/codehasan/BurgerHouse.git
+  git clone [https://github.com/codehasan/BurgerHouse.git](https://github.com/saiful0132/sample_rep.git)
   ```
 
 - Install http-server
